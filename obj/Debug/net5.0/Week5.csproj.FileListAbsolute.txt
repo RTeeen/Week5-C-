@@ -184,3 +184,8 @@
 /Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Players/Details.cshtml.g.cs
 /Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Players/Edit.cshtml.g.cs
 /Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Players/Index.cshtml.g.cs
+/Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Teams/Create.cshtml.g.cs
+/Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Teams/Delete.cshtml.g.cs
+/Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Teams/Details.cshtml.g.cs
+/Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Teams/Edit.cshtml.g.cs
+/Users/artinpeyvasteh/OneDrive/Documents/Codes/Term 3/COMP 3514 - Web C# Application Development/Labs/Week5/obj/Debug/net5.0/Razor/Views/Teams/Index.cshtml.g.cs
