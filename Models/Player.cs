@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Week5.Models
 {
     public class Player
@@ -9,6 +11,7 @@ namespace Week5.Models
 
         public string TeamName {get; set;}
 
+        [ForeignKey("TeamName")]
         public Team Team {get; set;}
     }
 }

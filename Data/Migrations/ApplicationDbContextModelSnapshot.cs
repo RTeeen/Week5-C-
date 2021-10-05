@@ -14,7 +14,7 @@ namespace Week5.Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "5.0.9");
+                .HasAnnotation("ProductVersion", "5.0.10");
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
@@ -230,12 +230,9 @@ namespace Week5.Data.Migrations
                     b.Property<string>("TeamName")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("TeamName1")
-                        .HasColumnType("TEXT");
-
                     b.HasKey("PlayerId");
 
-                    b.HasIndex("TeamName1");
+                    b.HasIndex("TeamName");
 
                     b.ToTable("Players");
                 });
@@ -308,7 +305,7 @@ namespace Week5.Data.Migrations
                 {
                     b.HasOne("Week5.Models.Team", "Team")
                         .WithMany("Players")
-                        .HasForeignKey("TeamName1");
+                        .HasForeignKey("TeamName");
 
                     b.Navigation("Team");
                 });
